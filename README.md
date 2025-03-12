@@ -1,5 +1,5 @@
 # Prime Factorization Challenge (Competitive)
-# Leaderboard is DOWN until 12th March
+# Leaderboard is DOWN for a long time!
 [You can access the game here!](https://seojizzz.github.io/runfactor.github.io/)
 
 ## Objective
